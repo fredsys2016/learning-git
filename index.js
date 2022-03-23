@@ -4,4 +4,3 @@ let li = 25 +25;
 let num = 100;
 console.log (li);
 console.log(num);
-console.log("hola como estas");
